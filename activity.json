@@ -1,0 +1,47 @@
+{
+  "ID from Device colleciton": {
+    "activity": [
+      {
+        "status": "on",
+        "cumulative consumption": 0.2,
+        "timestamp": "Fri Mar 05 2021 00:40:51 GMT+0500"
+      },
+      {
+        "status": "on",
+        "cumulative consumption": 0.4,
+        "timestamp": "Fri Mar 05 2021 00:41:51 GMT+0500"
+      },
+      {
+        "status": "on",
+        "cumulative consumption": 0.6,
+        "timestamp": "Fri Mar 05 2021 00:42:51 GMT+0500"
+      },
+      {
+        "status": "on",
+        "cumulative consumption": 0.8,
+        "timestamp": "Fri Mar 05 2021 00:43:51 GMT+0500"
+      },
+      {
+        "status": "on",
+        "cumulative consumption": 1.0,
+        "timestamp": "Fri Mar 05 2021 00:44:51 GMT+0500"
+      },
+      {
+        "status": "on",
+        "cumulative consumption": 1.2,
+        "timestamp": "Fri Mar 05 2021 00:45:51 GMT+0500"
+      },
+      {
+        "status": "off",
+        "cumulative consumption": 0,
+        "timestamp": "Fri Mar 05 2021 00:45:51 GMT+0500"
+      }
+    ],
+    "overall consumption": 1.2,
+    "powerrating": "25kw",
+    "createdAt": "2021-02-22T12:19:05.111+00:00",
+    "endDate": "whatever the date is created + 24 hours",
+    "numberOfEntries": "activity.length",
+    "updatedAt": "2021-03-03T07:23:33.442+00:00"
+  }
+}
